@@ -1,1 +1,1 @@
-Calculo de media em que o aluno saberá se será reprovado ou aprovado em um média maior ou igual a 6
+Calculo de media em que o aluno saberá se será reprovado ou aprovado em que sua  média tem que ser maior ou igual a 6
